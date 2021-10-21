@@ -101,7 +101,7 @@ flag{the-USSR-is-the-GOST-with-the-MOST}"
 ### Writeup
 In the challenge description, we see a picture of a fence. Thus, we can infer that this is a railfence cipher. Decrypting it using [Rumkin](http://rumkin.com/tools/cipher/railfence.php) with 4 rails and offset of 2, we get our flag. 
 
-Flag: ```flag{and-yet-swears-he-observes-the-phantasms}``
+Flag: ```flag{and-yet-swears-he-observes-the-phantasms}```
 
 ---
 
@@ -255,6 +255,7 @@ print(get_flag())
 Flag: ```flag{0h-look-a-FlaG}```
 
 ---
+
 # Reverse Engineering
 ## Luciafer's Cryptoware IOC 2 - 10 points
 
