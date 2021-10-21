@@ -342,7 +342,6 @@ With the exception of Collen Allsopp, the other customers are all male. Thus, we
 
 Flag: ```flag{Collen Allsopp}```
 
-
 ## City Lights - 40 points
 De Monne wants to know how many branch offices were included in the database leak. This can be found by figuring out how many unique cities the employees live in. Submit the flag as `flag{#}`.
 
@@ -405,8 +404,7 @@ Command: ```strings clown.jpg | grep flag```
 
 Flag: ```flag{s3nd_in_the_kl0wns}```
 
-
-## Scary Bunny
+## Scary Bunny - 10 points
 What could be inside this creepy rabbit?
 
 ### Writeup
@@ -414,8 +412,7 @@ Using this [website](https://futureboy.us/stegano/decinput.html), we get our fla
 
 Flag: ```flag{Carr0t}```
 
-
-## Behind the Curtain
+## Behind the Curtain - 30 points
 This image was intercepted from [Ghost Town](https://ghosttown.deadface.io/t/listen-up-noobs/43/4). We think Donnell has hidden information here, but there doesn't seem to be anything special about the image. Can you help find the hidden information? Submit the flag as `flag{this-is-the-flag}`.
 
 ### Writeup
@@ -424,27 +421,13 @@ Command: ```binwalk -e curtain.jpg```
 
 Flag: ```flag{L3t_m3_in}```
 
-## Voice
+## Voice - 50 points
 A friend of mine sent me an audio file which supposes to tell me the time of our night out meeting, but I can't comprehend the voice in the audio file. Can you help me figure it out? I want to hang out with my friends.
 
 ### Writeup
-
 Opening the audio file with Audacity and viewing it in Spectrogram mode, we see our flag. 
 
 Flag: ```flag{1257}```
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
