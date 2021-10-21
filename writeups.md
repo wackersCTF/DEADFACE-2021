@@ -89,9 +89,11 @@ The riddle is "Hey, @mort1cia, here’s the hint for the encrypted message I sen
 
  Using this [website](https://www.tools4noobs.com/online_tools/decrypt/) and hints from the clue, we figure out the password is ghost and the algorithm is GOST.
  
- Decrypted text: "The hack on Lytton Labs is going down at 11:59 PM, October 31, 2021.  Be ready with the custom ransomware.  We will upload it to their servers and unleash it in a scripted, coordinated attack!  Make sure to have at least five other hackers assist you with this.  thezealot is coordinating this operation.
+ Decrypted text:
+ ```The hack on Lytton Labs is going down at 11:59 PM, October 31, 2021.  Be ready with the custom ransomware.  We will upload it to their servers and unleash it in a scripted, coordinated attack!  Make sure to have at least five other hackers assist you with this.  thezealot is coordinating this operation.
 
-flag{the-USSR-is-the-GOST-with-the-MOST}"
+flag{the-USSR-is-the-GOST-with-the-MOST}
+```
 
  Flag: ```flag{the-USSR-is-the-GOST-with-the-MOST}```
  
